@@ -17,9 +17,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Cloning the repository
 
-Clone the project to have a copy in your desired local repository
+Clone the project to have a copy in your desired local repository.
 
-git clone https://github.com/nhuseu/combinedquic.git [LOCAL_DIRECTORY_PATH]
+`git clone https://github.com/nhuseu/combinedquic.git [LOCAL_DIRECTORY_PATH]`
 
 ### Usage
 
