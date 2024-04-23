@@ -1,11 +1,5 @@
 # CombinedQUIC
 
-## Basic Information
-
-### Authors 
-nhu(nhu@seu.edu.cn)  hwu(hwu@seu.edu.cn) hyzhao(hyzhao@seu.edu.cn) ssni(ssni@seu.edu.cn) gcheng(chengguang@seu.edu.cn)  
-
-### Brief 
 This repository only intends to help researchers understand and reproduce the main results in our paper, "Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC
 Features", for encrypted QUIC video identification attacks in combined transmission scenarios.
 
