@@ -3,6 +3,7 @@
 This repository only intends to help researchers understand and reproduce the main results in our paper, "Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC
 Features", for encrypted QUIC video identification attacks in combined transmission scenarios.
 
+
 ## Files introduction
 
 __/bin/win/__: Make_db.exe, QUIC _data.exe, match_mdb.exe and some supporting files for building a key-value structured real fingerprint database, correcting and restoring transmitted fingerprints, and matching fingerprints for identification.
@@ -34,4 +35,7 @@ git clone https://github.com/nhuseu/combinedquic.git [LOCAL_DIRECTORY_PATH]
 
 ## Results
 
+The output file __0_mul_DB_match.csv__ is the attack result. It contains 6 attributes, __file__ is the name of the video file to be matched, __v_id__ is the matching result, __max_count__, __num_count__, __match_seg__ are the matching details, and __score__ is the probability score of the matching result.
+
+Note: The exes in this repository are only available for pcaps before 2024/7/1. Please contact us (nhu@seu.edu.cn) for more details.
 
