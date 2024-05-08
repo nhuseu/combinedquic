@@ -37,5 +37,5 @@ Clone the project to have a copy in your desired local repository.
 
 The output file __0_mul_DB_match.csv__ is the attack result. It contains 6 attributes, __file__ is the name of the video file to be matched, __v_id__ is the matching result, __max_count__, __num_count__, __match_seg__ are the matching details, and __score__ is the probability score of the matching result.
 
-Note: The exes in this repository are only available for pcaps before 2024/7/1. Please contact us (nhu@seu.edu.cn) for more details.
+Note: The exes in this repository are only available for pcaps before 2024/7/1. Please contact us (hwu@seu.edu.cn) for more details.
 
